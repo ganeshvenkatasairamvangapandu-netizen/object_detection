@@ -14,7 +14,8 @@ This project performs real-time object detection using a webcam feed. It detects
 - NumPy
 
 ## Demo
-(Add your demo video link here)
+https://drive.google.com/file/d/1smXvJyq7gGRuIS8Gy2AF6OZd72qFU_qS/view?usp=drive_link
+
 
 ## How to Run
 pip install opencv-python numpy
