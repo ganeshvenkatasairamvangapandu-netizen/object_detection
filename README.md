@@ -14,7 +14,8 @@ This project performs real-time object detection using a webcam feed. It detects
 - NumPy
 
 ## Demo
-https://drive.google.com/file/d/1smXvJyq7gGRuIS8Gy2AF6OZd72qFU_qS/view?usp=drive_link
+
+https://drive.google.com/file/d/1smXvJyq7gGRuIS8Gy2AF6OZd72qFU_qS/view?usp=drivesdk
 
 
 ## How to Run
