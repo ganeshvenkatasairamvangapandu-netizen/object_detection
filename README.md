@@ -21,3 +21,9 @@ https://drive.google.com/file/d/1AL_aoUcMSXHSOCM8i3Thq-ZvR8poS68w/view?usp=drive
 ## How to Run
 pip install opencv-python numpy
 python3 object_detection.py
+
+
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?style=flat&logo=opencv&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
